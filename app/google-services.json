@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530228488139",
+    "firebase_url": "https://farm2flatapp.firebaseio.com",
+    "project_id": "farm2flatapp",
+    "storage_bucket": "farm2flatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530228488139:android:f68c9bfdab73e76e3a784e",
+        "android_client_info": {
+          "package_name": "com.example.farm2flatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530228488139-m1cqea17jjijjo3tn9i81apf07opr25d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farm2flatapp",
+            "certificate_hash": "c04b7d694299fc441acabedc1b77d3770ce47512"
+          }
+        },
+        {
+          "client_id": "530228488139-r149k8fbb82mlr42fa36akdjapld17qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN3YYX0xjMQdxItCcb8UuvYemJ0gQVPpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530228488139-r149k8fbb82mlr42fa36akdjapld17qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
